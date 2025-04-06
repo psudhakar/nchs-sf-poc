@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="26px" viewBox="0 0 18 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PrimaryHeader-AuthOpen-EN" transform="translate(-214.000000, -501.000000)" fill="#413C3C" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(0.000000, 19.000000)">
+                <g id="Group-6" transform="translate(15.000000, 479.000000)">
+                    <g id="Group-4-Copy" transform="translate(169.000000, 3.000000)">
+                        <g id="user_person_32px" transform="translate(30.000000, 0.000000)">
+                            <path d="M16,14 L2,14 C0.8954305,14 0,14.8954305 0,16 L0,26 L18,26 L18,16 C18,14.8954305 17.1045695,14 16,14 Z M2,24 L2,16 L16,16 L16,24 L2,24 Z" id="Shape"></path>
+                            <path d="M9,12 C12.3137085,12 15,9.3137085 15,6 C15,2.6862915 12.3137085,-8.8817842e-16 9,-8.8817842e-16 C5.6862915,-8.8817842e-16 3,2.6862915 3,6 C3,9.3137085 5.6862915,12 9,12 Z M9,2 C11.209139,2 13,3.790861 13,6 C13,8.209139 11.209139,10 9,10 C6.790861,10 5,8.209139 5,6 C5,3.790861 6.790861,2 9,2 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

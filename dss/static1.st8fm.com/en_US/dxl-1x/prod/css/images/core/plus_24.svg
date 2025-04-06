@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 24">
+
+  <view id="disabled" viewBox="72 0 24 24"/>
+  <view id="active" viewBox="48 0 24 24"/>
+  <view id="hover" viewBox="24 0 24 24"/>
+  <view id="default" viewBox="0 0 24 24"/>
+  
+  <g id="f917757c-0309-4fc0-88a1-b32166be479d" data-name="disabled">
+    <g>
+      <circle cx="84" cy="12" r="11.5" style="fill: #f4f3f3"/>
+      <path d="M84,1A11,11,0,1,1,73,12,11,11,0,0,1,84,1m0-1A12,12,0,1,0,96,12,12,12,0,0,0,84,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="85 4 83 4 83 11 76 11 76 13 83 13 83 20 85 20 85 13 92 13 92 11 85 11 85 4" style="fill: #403c3c"/>
+  </g>
+  <g id="fa822bb0-b11f-40fe-8dfb-f62f99f19755" data-name="active">
+    <g>
+      <circle cx="60" cy="12" r="11" style="fill: #f7f0e4"/>
+      <path d="M60,2A10,10,0,1,1,50,12,10,10,0,0,1,60,2m0-2A12,12,0,1,0,72,12,12,12,0,0,0,60,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="61 4 59 4 59 11 52 11 52 13 59 13 59 20 61 20 61 13 68 13 68 11 61 11 61 4" style="fill: #d62311"/>
+  </g>
+  <g id="be647dd5-163c-4759-beed-b232b0c8f733" data-name="hover">
+    <g>
+      <circle cx="36" cy="12" r="11.5" style="fill: #f7f0e4"/>
+      <path d="M36,1A11,11,0,1,1,25,12,11,11,0,0,1,36,1m0-1A12,12,0,1,0,48,12,12,12,0,0,0,36,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="37 4 35 4 35 11 28 11 28 13 35 13 35 20 37 20 37 13 44 13 44 11 37 11 37 4" style="fill: #d62311"/>
+  </g>
+  <g id="aea80c3e-b8df-4190-9c5c-aaff09a4bcad" data-name="default">
+    <g>
+      <circle cx="12" cy="12" r="11.5" style="fill: #fff"/>
+      <path d="M12,1A11,11,0,1,1,1,12,11,11,0,0,1,12,1m0-1A12,12,0,1,0,24,12,12,12,0,0,0,12,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="13 4 11 4 11 11 4 11 4 13 11 13 11 20 13 20 13 13 20 13 20 11 13 11 13 4" style="fill: #d62311"/>
+  </g>
+</svg>

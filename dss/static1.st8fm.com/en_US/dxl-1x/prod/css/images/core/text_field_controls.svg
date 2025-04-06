@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="a8885f3e-a75f-4aed-a539-297720af975a"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#403C3C;}
+	.st1{fill:#413C3C;}
+</style>
+<view  id="clock_disabled" preserveAspectRatio="xMidYMid meet" viewBox="192 24 24 24" zoomAndPan="magnify"></view>
+<view  id="clock_default" preserveAspectRatio="xMidYMid meet" viewBox="192 0 24 24 " zoomAndPan="magnify"></view>
+<view  id="clear_disabled" preserveAspectRatio="xMidYMid meet" viewBox="168 24 24 24" zoomAndPan="magnify"></view>
+<view  id="clear_default" preserveAspectRatio="xMidYMid meet" viewBox="168 0 24 24 " zoomAndPan="magnify"></view>
+<view  id="calendar_disabled" preserveAspectRatio="xMidYMid meet" viewBox="144 24 24 24" zoomAndPan="magnify"></view>
+<view  id="calendar_default" preserveAspectRatio="xMidYMid meet" viewBox="144 0 24 24" zoomAndPan="magnify"></view>
+<view  id="question_disabled" preserveAspectRatio="xMidYMid meet" viewBox="120 24 24 24" zoomAndPan="magnify"></view>
+<view  id="question_default" preserveAspectRatio="xMidYMid meet" viewBox="120 0 24 24" zoomAndPan="magnify"></view>
+<view  id="add_disabled" preserveAspectRatio="xMidYMid meet" viewBox="96 24 24 24" zoomAndPan="magnify"></view>
+<view  id="add_default" preserveAspectRatio="xMidYMid meet" viewBox="96 0 24 24" zoomAndPan="magnify"></view>
+<view  id="search_disabled" preserveAspectRatio="xMidYMid meet" viewBox="72 24 24 24" zoomAndPan="magnify"></view>
+<view  id="search_default" preserveAspectRatio="xMidYMid meet" viewBox="72 0 24 24" zoomAndPan="magnify"></view>
+<view  id="hide_disabled" preserveAspectRatio="xMidYMid meet" viewBox="48 26.5 22 21" zoomAndPan="magnify"></view>
+<view  id="hide_default" preserveAspectRatio="xMidYMid meet" viewBox="48 1.5 22 21 " zoomAndPan="magnify"></view>
+<view  id="view_disabled" preserveAspectRatio="xMidYMid meet" viewBox="24 30 22 14" zoomAndPan="magnify"></view>
+<view  id="view_default" preserveAspectRatio="xMidYMid meet" viewBox="24 5 22 14" zoomAndPan="magnify"></view>
+<view  id="information_disabled" preserveAspectRatio="xMidYMid meet" viewBox="0 24 24 24" zoomAndPan="magnify"></view>
+<view  id="information_default" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" zoomAndPan="magnify"></view>
+<g>
+	<circle class="st0" cx="12" cy="6" r="1.5"/>
+	<path class="st0" d="M12,0C5.4,0,0,5.4,0,12s5.4,12,12,12s12-5.4,12-12S18.6,0,12,0z M12,22C6.5,22,2,17.5,2,12S6.5,2,12,2
+		s10,4.5,10,10S17.5,22,12,22z"/>
+	<rect x="11" y="10" class="st0" width="2" height="9.1"/>
+</g>
+<g>
+	<path class="st1" d="M132,0c-6.6,0-12,5.4-12,12s5.4,12,12,12c6.6,0,12-5.4,12-12S138.6,0,132,0z M132,22c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10c5.5,0,10,4.5,10,10S137.5,22,132,22z"/>
+	<circle class="st1" cx="132" cy="17.5" r="1.5"/>
+	<path class="st1" d="M132.3,5c-2.3-0.1-4.2,1.7-4.2,3.9c0,0.3,0,0.5,0,0.8l2.1,0.1C130,8.1,130.9,7,132.3,7
+		c0.9-0.1,1.8,0.6,1.9,1.6c0,0.1,0,0.2,0,0.2c0,2.4-3.4,2.5-3.2,5.9h2c-0.1-2.5,3.4-2.3,3.4-5.9C136.4,6.6,134.8,5,132.3,5z"/>
+</g>
+<path class="st0" d="M45.8,11.5C44.5,10,40.6,6,36,6s-8.5,4-9.8,5.5c-0.3,0.3-0.3,0.8,0,1.1C27.5,14,31.4,18,36,18s8.5-4,9.8-5.5
+	C46.1,12.2,46.1,11.8,45.8,11.5z M36,16c-3.2,0-6.1-2.5-7.6-4c1.2-1.3,2.6-2.3,4.2-3.1C32.2,9.5,32,10.2,32,11c0,2.2,1.8,4,4,4
+	s4-1.8,4-4c0-0.8-0.2-1.5-0.6-2.1c1.6,0.8,3,1.9,4.2,3.1C42.1,13.5,39.2,16,36,16z"/>
+<g>
+	<path class="st0" d="M69.8,11.5c-0.8-0.9-1.7-1.8-2.7-2.6l-1.4,1.4c0.7,0.5,1.3,1.1,1.9,1.7c-1.5,1.5-4.4,4-7.6,4l-1.8,1.8
+		c0.6,0.1,1.2,0.2,1.8,0.2c4.6,0,8.5-4,9.8-5.5C70.1,12.2,70.1,11.8,69.8,11.5z"/>
+	<path class="st0" d="M66.3,4.3l-2.5,2.6C62.6,6.3,61.3,6,60,6c-4.6,0-8.5,4-9.8,5.5c-0.3,0.3-0.3,0.8,0,1.1
+		c1.2,1.4,2.6,2.6,4.2,3.6l-2.1,2.1l1.4,1.4l14-14L66.3,4.3z M55.9,14.7c-1.3-0.8-2.4-1.7-3.4-2.7c1.2-1.3,2.6-2.3,4.2-3.1
+		C56.2,9.5,56,10.2,56,11c0,1,0.4,1.9,1,2.6L55.9,14.7z"/>
+</g>
+<path class="st0" d="M94.3,20.9l-4.7-4.7c3.1-3.9,2.5-9.5-1.4-12.6C84.4,0.5,78.7,1.1,75.6,5s-2.5,9.5,1.4,12.6
+	c3.3,2.6,8,2.6,11.2,0l4.7,4.7L94.3,20.9z M82.7,17.7c-3.9,0-7-3.1-7-7s3.1-7,7-7s7,3.1,7,7S86.5,17.6,82.7,17.7z"/>
+<g>
+	<path class="st0" d="M108,0c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S114.6,0,108,0z M108,22c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10s10,4.5,10,10S113.5,22,108,22z"/>
+	<polygon class="st0" points="109,6 107,6 107,11 102,11 102,13 107,13 107,18 109,18 109,13 114,13 114,11 109,11 	"/>
+</g>
+<g>
+	<path class="st0" d="M188.5,3.5c-4.7-4.7-12.3-4.7-17,0s-4.7,12.3,0,17c4.7,4.7,12.3,4.7,16.9,0C193.2,15.8,193.2,8.2,188.5,3.5
+		C188.5,3.5,188.5,3.5,188.5,3.5z M172.9,19.1c-3.9-3.9-3.9-10.2,0-14.1s10.2-3.9,14.1,0s3.9,10.2,0,14.1c0,0,0,0,0,0
+		C183.2,23,176.8,23,172.9,19.1z"/>
+	<polygon class="st0" points="184.9,8.5 183.5,7.1 180,10.6 176.5,7.1 175.1,8.5 178.6,12 175.1,15.5 176.5,17 180,13.4 183.5,17
+		184.9,15.5 181.4,12 	"/>
+</g>
+<path class="st0" d="M162,4V2h-2v2h-8V2h-2v2h-4v18h20V4H162z M150,6v2h2V6h8v2h2V6h2v4h-16V6H150z M148,20v-8h16v8H148z"/>
+<g>
+	<circle class="st0" cx="12" cy="30" r="1.5"/>
+	<path class="st0" d="M12,24C5.4,24,0,29.4,0,36s5.4,12,12,12s12-5.4,12-12S18.6,24,12,24z M12,46C6.5,46,2,41.5,2,36s4.5-10,10-10
+		s10,4.5,10,10S17.5,46,12,46z"/>
+	<rect x="11" y="34" class="st0" width="2" height="9.1"/>
+</g>
+<g>
+	<path class="st1" d="M132,24c-6.6,0-12,5.4-12,12s5.4,12,12,12c6.6,0,12-5.4,12-12S138.6,24,132,24z M132,46c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10c5.5,0,10,4.5,10,10S137.5,46,132,46z"/>
+	<circle class="st1" cx="132" cy="41.5" r="1.5"/>
+	<path class="st1" d="M132.3,29c-2.3-0.1-4.2,1.7-4.2,3.9c0,0.3,0,0.5,0,0.8l2.1,0.1c-0.2-1.7,0.7-2.9,2.1-2.9
+		c0.9-0.1,1.8,0.6,1.9,1.6c0,0.1,0,0.2,0,0.2c0,2.4-3.4,2.5-3.2,5.9h2c-0.1-2.5,3.4-2.3,3.4-5.9C136.4,30.5,134.8,29,132.3,29z"/>
+</g>
+<path class="st0" d="M45.8,35.5C44.5,34,40.6,30,36,30s-8.5,4-9.8,5.5c-0.3,0.3-0.3,0.8,0,1.1C27.5,38,31.4,42,36,42s8.5-4,9.8-5.5
+	C46.1,36.2,46.1,35.8,45.8,35.5z M36,40c-3.2,0-6.1-2.5-7.6-4c1.2-1.3,2.6-2.3,4.2-3.2C32.2,33.5,32,34.2,32,35c0,2.2,1.8,4,4,4
+	s4-1.8,4-4c0-0.8-0.2-1.5-0.6-2.2c1.6,0.8,3,1.9,4.2,3.2C42.1,37.5,39.2,40,36,40z"/>
+<g>
+	<path class="st0" d="M69.8,35.5c-0.8-0.9-1.7-1.8-2.7-2.6l-1.4,1.4c0.7,0.5,1.3,1.1,1.9,1.7c-1.5,1.5-4.4,4-7.6,4l-1.8,1.8
+		c0.6,0.1,1.2,0.2,1.8,0.2c4.6,0,8.5-4,9.8-5.5C70.1,36.2,70.1,35.8,69.8,35.5z"/>
+	<path class="st0" d="M66.3,28.3l-2.5,2.5C62.6,30.3,61.3,30,60,30c-4.6,0-8.5,4-9.8,5.5c-0.3,0.3-0.3,0.8,0,1.1
+		c1.2,1.4,2.6,2.6,4.2,3.7l-2.1,2.1l1.4,1.4l14-14L66.3,28.3z M55.9,38.7C54.6,38,53.5,37,52.4,36c1.2-1.3,2.6-2.3,4.2-3.2
+		C56.2,33.5,56,34.2,56,35c0,1,0.4,1.9,1,2.6L55.9,38.7z"/>
+</g>
+<path class="st0" d="M94.3,44.9l-4.7-4.7c1.3-1.6,2-3.6,2-5.6c0-5-4-9-9-9s-9,4-9,9c0,5,4,9,9,9c2.1,0,4-0.7,5.6-2l4.7,4.7
+	L94.3,44.9z M82.7,41.6c-3.9,0-7-3.1-7-7s3.1-7,7-7s7,3.1,7,7S86.5,41.6,82.7,41.6C82.7,41.6,82.7,41.6,82.7,41.6z"/>
+<g>
+	<path class="st0" d="M108,24c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S114.6,24,108,24z M108,46c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10s10,4.5,10,10S113.5,46,108,46z"/>
+	<polygon class="st0" points="109,30 107,30 107,35 102,35 102,37 107,37 107,42 109,42 109,37 114,37 114,35 109,35 	"/>
+</g>
+<g>
+	<path class="st0" d="M188.5,27.5c-4.7-4.7-12.3-4.7-17,0s-4.7,12.3,0,17c4.7,4.7,12.3,4.7,16.9,0C193.2,39.8,193.2,32.2,188.5,27.5
+		C188.5,27.5,188.5,27.5,188.5,27.5z M172.9,43.1c-3.9-3.9-3.9-10.2,0-14.1s10.2-3.9,14.1,0s3.9,10.2,0,14.1c0,0,0,0,0,0
+		C183.2,47,176.8,47,172.9,43.1z"/>
+	<polygon class="st0" points="184.9,32.5 183.5,31 180,34.6 176.5,31 175.1,32.5 178.6,36 175.1,39.5 176.5,41 180,37.4 183.5,41
+		184.9,39.5 181.4,36 	"/>
+</g>
+<path class="st0" d="M162,28v-2h-2v2h-8v-2h-2v2h-4v18h20V28H162z M150,30v2h2v-2h8v2h2v-2h2v4h-16v-4H150z M148,44v-8h16v8H148z"/>
+<g>
+	<polygon class="st0" points="205,4 203,4 203,12.4 208.3,17.7 209.7,16.3 205,11.6 	"/>
+	<path class="st0" d="M204,0c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S210.6,0,204,0z M204,22c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10s10,4.5,10,10S209.5,22,204,22z"/>
+</g>
+<g>
+	<polygon class="st0" points="205,28 203,28 203,36.4 208.3,41.7 209.7,40.3 205,35.6 	"/>
+	<path class="st0" d="M204,24c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S210.6,24,204,24z M204,46c-5.5,0-10-4.5-10-10
+		s4.5-10,10-10s10,4.5,10,10S209.5,46,204,46z"/>
+</g>
+</svg>

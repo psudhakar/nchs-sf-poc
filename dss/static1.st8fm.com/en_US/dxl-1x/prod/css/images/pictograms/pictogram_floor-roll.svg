@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .b1aaaa55-c451-4b89-a43f-39ca2b5a6467 {
+        fill: none;
+      }
+
+      .f8ab8456-b424-4df6-91c7-573b45ad5aae {
+        fill: #ec0c21;
+      }
+
+      .ed42dbff-e202-49f0-a1a3-a617dc759f37 {
+        fill: #403c3c;
+      }
+    </style>
+  </defs>
+  <g data-name="white bg">
+    <rect class="b1aaaa55-c451-4b89-a43f-39ca2b5a6467" x="-0.1" width="160" height="160"/>
+  </g>
+  <g data-name="Layer 1">
+    <path class="f8ab8456-b424-4df6-91c7-573b45ad5aae" d="M57.5,55A47.5,47.5,0,1,0,105,102.5,47.5,47.5,0,0,0,57.5,55Zm0,64.84A17.34,17.34,0,1,1,74.84,102.5,17.34,17.34,0,0,1,57.5,119.84Z"/>
+    <g>
+      <path class="ed42dbff-e202-49f0-a1a3-a617dc759f37" d="M57.5,148.2a45.7,45.7,0,1,1,45.7-45.7h3.6a49.3,49.3,0,1,0-49.3,49.3H155v-3.6Z"/>
+      <path class="ed42dbff-e202-49f0-a1a3-a617dc759f37" d="M57.5,118A15.56,15.56,0,0,1,42,102.5h-3.6A19.14,19.14,0,1,0,57.5,83.36V87a15.54,15.54,0,0,1,0,31.08Z"/>
+    </g>
+  </g>
+</svg>

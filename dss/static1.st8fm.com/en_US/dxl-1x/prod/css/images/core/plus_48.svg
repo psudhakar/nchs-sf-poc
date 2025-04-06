@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 48">
+
+  <view id="disabled" viewBox="144 0 48 48" />
+  <view id="active" viewBox="96 0 48 48"/>
+  <view id="hover" viewBox="48 0 48 48" />
+  <view id="default" viewBox="0 0 48 48"/>
+
+  <g id="f20f72ec-b58a-4033-a774-1eab2ba42c14" data-name="disabled">
+    <g>
+      <circle cx="168" cy="24" r="23.5" style="fill: #f4f3f3"/>
+      <path d="M168,1a23,23,0,1,1-23,23A23,23,0,0,1,168,1m0-1a24,24,0,1,0,24,24A24,24,0,0,0,168,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="169 16 167 16 167 23 160 23 160 25 167 25 167 32 169 32 169 25 176 25 176 23 169 23 169 16" style="fill: #403c3c"/>
+  </g>
+  <g id="ada43e8c-3fe6-4a31-808d-9b9bb321924d" data-name="active">
+    <g>
+      <circle cx="120" cy="24" r="23" style="fill: #f7f0e4"/>
+      <path d="M120,2A22,22,0,1,1,98,24,22,22,0,0,1,120,2m0-2a24,24,0,1,0,24,24A24,24,0,0,0,120,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="121 16 119 16 119 23 112 23 112 25 119 25 119 32 121 32 121 25 128 25 128 23 121 23 121 16" style="fill: #d62311"/>
+  </g>
+  <g id="eb3d90ee-a994-4fda-9615-8e69d8c3b5c9" data-name="hover">
+    <g>
+      <circle cx="72" cy="24" r="23.5" style="fill: #f7f0e4"/>
+      <path d="M72,1A23,23,0,1,1,49,24,23,23,0,0,1,72,1m0-1A24,24,0,1,0,96,24,24,24,0,0,0,72,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="73 16 71 16 71 23 64 23 64 25 71 25 71 32 73 32 73 25 80 25 80 23 73 23 73 16" style="fill: #d62311"/>
+  </g>
+  <g id="ee102927-6638-45fa-a605-8ef6f8d704ea" data-name="default">
+    <g>
+      <circle cx="24" cy="24" r="23.5" style="fill: #fff"/>
+      <path d="M24,1A23,23,0,1,1,1,24,23,23,0,0,1,24,1m0-1A24,24,0,1,0,48,24,24,24,0,0,0,24,0Z" style="fill: #767676"/>
+    </g>
+    <polygon points="25 16 23 16 23 23 16 23 16 25 23 25 23 32 25 32 25 25 32 25 32 23 25 23 25 16" style="fill: #d62311"/>
+  </g>
+</svg>

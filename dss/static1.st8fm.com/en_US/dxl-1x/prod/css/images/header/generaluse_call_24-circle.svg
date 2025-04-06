@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#CBCBCB;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#E22925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#6E6E6E;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<ellipse class="st0" cx="28" cy="28" rx="26" ry="27.3"/>
+<path class="st1" d="M27.1,29.4"/>
+<path class="st1" d="M28.6,30.1"/>
+<g>
+	<path class="st1" d="M29.5,18c4.8,0,9,4.2,9,9"/>
+	<path class="st2" d="M35,39c-9.6,0-17.5-7.9-17.5-17.5L21,18l4.5,5.5l-3,3L30,34l3.5-4l5,5.5L35,39z"/>
+	<path class="st1" d="M34.5,26.9c0-2.4-2.6-4.9-5-4.9"/>
+</g>
+</svg>

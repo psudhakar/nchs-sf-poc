@@ -1,0 +1,62 @@
+.xd-privacy-notice-container{background:var(--core-charcoal-403-c-3-c,#403c3c);box-shadow:0 -6px 16px 0 rgba(33,33,33,0.50);position:fixed;z-index:9999999999999999;bottom:0;width:100%}
+.xd-privacy-notice-container .xd-notice-description{color:#fff;font-family:"Mecherle Sans";font-size:14px;line-height:21px !important;display:inline-flex;align-items:center}
+.xd-privacy-notice-container .-oneX-icon--close{background:url("https://www.statefarm.com/content/dam/StateFarmAEM/close_24px.svg") no-repeat 0 0}
+.xd-privacy-notice-container p{padding-bottom:0 !important;margin-bottom:0 !important;margin-top:0 !important}
+.xd-privacy-notice-container p a{color:#fff;text-decoration:underline}
+.xd-privacy-notice-container p a:hover{text-decoration:none}
+.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .es-xd-privacy-btn{background-color:transparent;border-color:#fff;text-decoration:none !important;margin-left:24px}
+.xd-privacy-notice-container .xd-privacy-btn:active,.xd-privacy-notice-container .xd-optout-btn:active,.xd-privacy-notice-container .es-xd-privacy-btn:active,.xd-privacy-notice-container .es-xd-optout-btn:active{background-color:rgba(255,255,255,0.80) !important;border:1px solid #fff !important;text-decoration:none !important;color:#403c3c !important}
+.xd-privacy-notice-container .xd-privacy-btn:hover,.xd-privacy-notice-container .xd-optout-btn:hover,.xd-privacy-notice-container .es-xd-privacy-btn:hover,.xd-privacy-notice-container .es-xd-optout-btn:hover{background-color:#fff !important;border:1px solid #fff !important;text-decoration:none !important;color:#403c3c !important}
+.xd-privacy-notice-container .xd-privacy-btn:focus,.xd-privacy-notice-container .xd-optout-btn:focus,.xd-privacy-notice-container .es-xd-privacy-btn:focus,.xd-privacy-notice-container .es-xd-optout-btn:focus{outline:2px solid #fff;outline-offset:2px}
+.xd-privacy-notice-container .-oneX-close-X-button:focus{outline:1px solid #fff;outline-offset:1px}
+.xd-privacy-notice-container .xd-optout-btn,.xd-privacy-notice-container .es-xd-optout-btn{background-color:transparent;border-color:#fff;text-decoration:none !important;margin-left:24px}
+.xd-privacy-notice-container .manage-cookies,.xd-privacy-notice-container .es-manage-cookies{margin-left:24px;font-size:12px;font-weight:600}
+@media screen and (min-width:1201px){.xd-privacy-notice-container .xd-notice{padding-top:14.523px;padding-bottom:12.477px}
+.xd-privacy-notice-container .xd-notice button{top:19px}
+}
+@media screen and (min-width:992px) and (max-width:1200px){.xd-privacy-notice-container .xd-notice{padding-top:14.523px;padding-bottom:12.477px}
+.xd-privacy-notice-container .xd-notice button{top:19px}
+}
+@media screen and (min-width:768px) and (max-width:991px){.xd-privacy-notice-container .xd-notice{padding-top:15px;padding-bottom:15px}
+.xd-privacy-notice-container .xd-notice button{top:13px}
+.xd-privacy-notice-container .cookies-button,.xd-privacy-notice-container .es-cookies-button{margin-top:16px}
+.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .es-xd-privacy-btn{margin-left:0}
+.xd-privacy-notice-container .manage-cookies,.xd-privacy-notice-container .es-manage-cookies{margin-left:16px !important}
+.xd-privacy-notice-container .xd-notice-description{display:grid}
+}
+@media screen and (min-width:576px) and (max-width:767px){.xd-privacy-notice-container .xd-notice{padding:15px 0 15px 0}
+.xd-privacy-notice-container .xd-notice button{top:12px}
+.xd-privacy-notice-container .cookies-button,.xd-privacy-notice-container .es-cookies-button{margin-top:16px}
+.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .es-xd-privacy-btn{margin-left:0}
+.xd-privacy-notice-container .manage-cookies,.xd-privacy-notice-container .es-manage-cookies{margin-left:16px !important}
+.xd-privacy-notice-container .xd-optout-btn,.xd-privacy-notice-container .es-xd-optout-btn{margin-left:16px !important}
+.xd-privacy-notice-container .xd-notice-description{display:grid}
+}
+@media(max-width:575px){.xd-privacy-notice-container .xd-notice{padding:15px}
+.xd-privacy-notice-container .xd-notice button{right:4px;top:13px}
+.xd-privacy-notice-container .cookies-button,.xd-privacy-notice-container .es-cookies-button{margin-top:16px}
+.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .es-xd-privacy-btn{margin-left:0}
+.xd-privacy-notice-container .manage-cookies,.xd-privacy-notice-container .es-manage-cookies{margin-left:15px !important}
+.xd-privacy-notice-container .xd-optout-btn,.xd-privacy-notice-container .es-xd-optout-btn{margin-left:15px !important}
+.xd-privacy-notice-container .xd-notice-description{display:grid}
+.xd-privacy-notice-container .-oneX-close-X-button{height:24px;width:24px}
+}
+@media(max-width:374px){.xd-privacy-notice-container .privacy-links{width:95%}
+.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .xd-optout-btn{padding:0 15px !important}
+}
+@media(max-width:300px){.xd-privacy-notice-container .xd-privacy-btn,.xd-privacy-notice-container .xd-optout-btn{padding:0 8px !important}
+}
+@media screen and (min-width:992px) and (max-width:1199px){.xd-privacy-notice-container .es-cookies-button{margin-top:16px}
+.xd-privacy-notice-container .es-privacy-links{margin-left:24px}
+}
+@media(max-width:575px){.xd-privacy-notice-container .es-xd-privacy-btn,.xd-privacy-notice-container .es-xd-optout-btn{padding:0 15px !important}
+.xd-privacy-notice-container .es-privacy-links{width:95%}
+}
+@media(max-width:420px){.xd-privacy-notice-container .es-manage-cookies{margin-left:0 !important}
+.xd-privacy-notice-container .es-xd-optout-btn,.xd-privacy-notice-container .es-xd-privacy-btn{margin-bottom:16px}
+.xd-privacy-notice-container .es-cookies-button{width:80%}
+}
+@media(max-width:335px){.xd-privacy-notice-container .es-xd-optout-btn{margin-left:0 !important}
+.xd-privacy-notice-container .es-cookies-button{width:72%}
+}
+a.-oneX-btn-secondary:hover:not(:disabled).-oneX-btn-small,a.-oneX-btn-ghost:hover:not(:disabled).-oneX-btn-small,a.-oneX-btn-secondary__anchor:hover:not(:disabled).-oneX-btn-small,a.-oneX-btn-ghost__anchor:hover:not(:disabled).-oneX-btn-small,a.-oneX-btn-secondary:active:not(:disabled).-oneX-btn-small,a.-oneX-btn-ghost:active:not(:disabled).-oneX-btn-small,a.-oneX-btn-secondary__anchor:active:not(:disabled).-oneX-btn-small,a.-oneX-btn-ghost__anchor:active:not(:disabled).-oneX-btn-small{padding:0 32px !important}

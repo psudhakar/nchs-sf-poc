@@ -1,0 +1,32 @@
+<svg id="ab272545-6d24-4dde-8006-1b149dd14172" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 22">
+<view  id="disabled_selected" preserveAspectRatio="xMidYMid meet" viewBox="88 0 22 22" zoomAndPan="magnify"></view>
+<view  id="disabled" preserveAspectRatio="xMidYMid meet" viewBox="66 0 22 22" zoomAndPan="magnify"></view>
+<view  id="active" preserveAspectRatio="xMidYMid meet" viewBox="22 0 22 22" zoomAndPan="magnify"></view>
+<view  id="selected" preserveAspectRatio="xMidYMid meet" viewBox="44 0 22 22" zoomAndPan="magnify"></view>
+<view  id="hover" viewBox="22 0 22 22"></view>
+<view  id="default" viewBox="0 0 22 22"></view>
+
+  <g>
+    <rect x="88.5" y="0.5" width="21" height="21" style="fill: #767676"/>
+    <path d="M109,1V21H89V1h20m1-1H88V22h22V0Z" style="fill: #403c3c"/>
+  </g>
+  <g>
+    <rect x="0.5" y="0.5" width="21" height="21" style="fill: #fff"/>
+    <path d="M21,1V21H1V1H21m1-1H0V22H22V0Z" style="fill: #767676"/>
+  </g>
+  <g>
+    <rect x="22.5" y="0.5" width="21" height="21" style="fill: #f7f0e4"/>
+    <path d="M43,1V21H23V1H43m1-1H22V22H44V0Z" style="fill: #403c3c"/>
+  </g>
+  <g>
+    <rect x="44.5" y="0.5" width="21" height="21" style="fill: #403c3c"/>
+    <path d="M65,1V21H45V1H65m1-1H44V22H66V0Z" style="fill: #403c3c"/>
+  </g>
+  <path d="M53.75,15.2l7.1-7.1a1,1,0,1,0-1.4-1.4l-6.4,6.4-2.5-2.5a1,1,0,1,0-1.4,1.4l3.2,3.3a.91.91,0,0,0,.7.3h0A.67.67,0,0,0,53.75,15.2Z" style="fill: #fff"/>
+  <path d="M163.75,15.2l7.1-7.1a1,1,0,0,0-1.4-1.4l-6.4,6.4-2.5-2.5a1,1,0,0,0-1.4,1.4l3.2,3.3a.91.91,0,0,0,.7.3h0A.67.67,0,0,0,163.75,15.2Z" style="fill: #fff"/>
+  <path d="M98.1,15.2l7.1-7.1a1,1,0,0,0-1.4-1.4l-6.4,6.4-2.5-2.5A1,1,0,0,0,93.5,12l3.2,3.3a.91.91,0,0,0,.7.3h0A.67.67,0,0,0,98.1,15.2Z" style="fill: #fff"/>
+  <g>
+    <rect x="66.5" y="0.5" width="21" height="21" style="fill: #e4e3e3"/>
+    <path d="M87,1V21H67V1H87m1-1H66V22H88V0Z" style="fill: #767676"/>
+  </g>
+</svg>

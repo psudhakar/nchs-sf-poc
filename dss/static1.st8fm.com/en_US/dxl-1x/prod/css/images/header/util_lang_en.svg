@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24">
+  <g id="icon_24_language_en" data-name="icon/24/language_en">
+    <g id="Group" style="opacity: 0">
+      <g id="background">
+        <rect width="24" height="24" style="fill: #fff"/>
+      </g>
+    </g>
+    <g id="parts_colors_icon_colors_charcoal-02" data-name="parts/colors/icon_colors/charcoal-02">
+      <g id="Mask">
+        <path id="path-1" d="M22,4a1,1,0,0,1,1,1h0V19a1,1,0,0,1-1,1H6L3.85,22.15A.5.5,0,0,1,3,21.8H3V20H2a1,1,0,0,1-1-1H1V5A1,1,0,0,1,2,4H22ZM21,6H3V18H21ZM10.78,7.5V9.45H6.95v1.47H9.96v1.96H6.95v1.67h3.97V16.5H4.68v-9Zm3.38,0,2.74,4.64.51.94-.07-1.61V7.5h2.12v9H17.22l-2.75-4.64-.5-.93.07,1.6V16.5H11.92v-9Z" style="fill: #403c3c"/>
+      </g>
+    </g>
+  </g>
+</svg>
+

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .b532b988-ad99-4895-b70e-6e6b645e802b, .bb8f8546-a5be-434e-8aad-9d66e134dc72 {
+        fill: none;
+      }
+
+      .aa9b3df0-dc7c-4936-b155-f77e28eaf622 {
+        fill: #ec0c21;
+      }
+
+      .bb8f8546-a5be-434e-8aad-9d66e134dc72 {
+        stroke: #403c3c;
+        stroke-miterlimit: 10;
+        stroke-width: 3.6px;
+      }
+    </style>
+  </defs>
+  <g data-name="white bg">
+    <rect class="b532b988-ad99-4895-b70e-6e6b645e802b" x="-0.1" width="160" height="160"/>
+  </g>
+  <g data-name="Layer 1">
+    <path class="aa9b3df0-dc7c-4936-b155-f77e28eaf622" d="M68.63,100.05l-16-.32-1.41,0a10.06,10.06,0,0,0,3.82,4h0V115H65V103.66h0A10.16,10.16,0,0,0,68.63,100.05Z"/>
+    <path class="bb8f8546-a5be-434e-8aad-9d66e134dc72" d="M65,115H55V103.66A10,10,0,0,1,60,85"/>
+    <g>
+      <line class="bb8f8546-a5be-434e-8aad-9d66e134dc72" x1="95" y1="79.87" x2="95" y2="60"/>
+      <polyline class="bb8f8546-a5be-434e-8aad-9d66e134dc72" points="95 35 95 15 25 15 25 145 95 145 95 104.75"/>
+      <path class="bb8f8546-a5be-434e-8aad-9d66e134dc72" d="M95,35h45V55.25H60.12a10.13,10.13,0,0,1,0-20.25H95"/>
+    </g>
+    <path class="bb8f8546-a5be-434e-8aad-9d66e134dc72" d="M60,85H82.5a12.5,12.5,0,1,1,0,15H51.34"/>
+    <circle class="bb8f8546-a5be-434e-8aad-9d66e134dc72" cx="92.5" cy="92.5" r="5"/>
+  </g>
+</svg>

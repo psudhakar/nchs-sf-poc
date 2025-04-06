@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M19.56,0.5 C20.1122847,0.5 20.56,0.94771525 20.56,1.5 L20.56,1.5 L20.56,16.5 C20.56,17.0522847 20.1122847,17.5 19.56,17.5 L19.56,17.5 L5.56,17.5 L3.41,19.65 C3.26714985,19.7900599 3.05456439,19.8314878 2.86957577,19.755316 C2.68458715,19.6791442 2.56281003,19.5000376 2.56,19.3 L2.56,19.3 L2.56,17.5 L1.56,17.5 C1.00771525,17.5 0.56,17.0522847 0.56,16.5 L0.56,16.5 L0.56,1.5 C0.56,0.94771525 1.00771525,0.5 1.56,0.5 L1.56,0.5 Z M18.56,2.5 L2.56,2.5 L2.56,15.5 L18.56,15.5 L18.56,2.5 Z M16.56,7.5 L16.56,9.5 L4.56,9.5 L4.56,7.5 L16.56,7.5 Z M16.56,4.5 L16.56,6.5 L4.56,6.5 L4.56,4.5 L16.56,4.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/24/chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#FFFFFF" opacity="0">
+            <g id="icon/24/background">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+        <g id="chat_24px" transform="translate(1.000000, 1.000000)">
+            <g id="parts/colors/icon_colors/charcoal-02" transform="translate(0.440000, 0.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-18.000000, -19.000000)">
+                        <rect id="Rectangle-Copy" fill="#403C3C" x="0" y="0" width="66" height="66"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

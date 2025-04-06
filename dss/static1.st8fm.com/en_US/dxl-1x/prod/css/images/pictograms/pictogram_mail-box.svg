@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .fffbdaff-95cf-4691-968c-223fa3d3efc6 {
+        fill: none;
+      }
+
+      .e0387fd0-751e-4026-b94f-8fa5ff01c6ff {
+        fill: #ec0c21;
+      }
+
+      .a5121714-60c3-4ab6-8238-bb249e5fa9fa {
+        fill: #413c3c;
+      }
+    </style>
+  </defs>
+  <g data-name="white bg">
+    <rect class="fffbdaff-95cf-4691-968c-223fa3d3efc6" x="-0.1" width="160" height="160"/>
+  </g>
+  <g data-name="Layer 1">
+    <rect class="e0387fd0-751e-4026-b94f-8fa5ff01c6ff" x="70" y="10" width="29.95" height="15"/>
+    <path class="e0387fd0-751e-4026-b94f-8fa5ff01c6ff" d="M15,116.77V57.82A12.67,12.67,0,0,1,27.5,45h0A12.67,12.67,0,0,1,40,57.82v59"/>
+    <path class="a5121714-60c3-4ab6-8238-bb249e5fa9fa" d="M132.5,43.2H71.8V11.8H98.15V23.2H80v3.6h21.75V8.2H68.2v35H27.43a14.32,14.32,0,0,0-14.3,14.3V115h.07v1.77h3.6V57.82a10.87,10.87,0,0,1,10.7-11,10.87,10.87,0,0,1,10.7,11v59H40v0H68.2V150h3.6V116.8H98.2V150h3.6V116.8h45V57.5A14.32,14.32,0,0,0,132.5,43.2Zm10.7,70H41.8V57.82a14.72,14.72,0,0,0-4.93-11H68.2V85h3.6V46.8h60.7a10.71,10.71,0,0,1,10.7,10.7Z"/>
+  </g>
+</svg>

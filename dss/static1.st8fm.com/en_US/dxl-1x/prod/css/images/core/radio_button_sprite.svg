@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="e50e4271-6e92-4204-b324-1d68eea6ff7b"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 176 22"
+	 style="enable-background:new 0 0 176 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#403C3C;}
+	.st2{fill:#767676;}
+	.st3{fill:#F7F0E4;}
+	.st4{fill:#E4E3E3;}
+</style>
+<g>
+	<circle class="st0" cx="55" cy="11" r="10.5"/>
+	<path class="st1" d="M55,1c5.5,0,10,4.5,10,10s-4.5,10-10,10s-10-4.5-10-10S49.5,1,55,1 M55,0c-6.1,0-11,4.9-11,11s4.9,11,11,11
+		s11-4.9,11-11S61.1,0,55,0L55,0z"/>
+</g>
+<view  id="disabled" preserveAspectRatio="xMidYMid meet" viewBox="66 0 22 22" zoomAndPan="magnify"></view>
+<view  id="disabled_selected" preserveAspectRatio="xMidYMid meet" viewBox="88 0 22 22" zoomAndPan="magnify"></view>
+<view  id="active" preserveAspectRatio="xMidYMid meet" viewBox="22 0 22 22" zoomAndPan="magnify"></view>
+<view  id="selected" preserveAspectRatio="xMidYMid meet" viewBox="44 0 22 22" zoomAndPan="magnify"></view>
+<view  id="hover" preserveAspectRatio="xMidYMid meet" viewBox="22 0 22 22" zoomAndPan="magnify"></view>
+<view  id="default" preserveAspectRatio="xMidYMid meet" viewBox="0 0 22 22" zoomAndPan="magnify"></view>
+<g>
+	<circle class="st0" cx="11" cy="11" r="10.5"/>
+	<path class="st2" d="M11,1c5.5,0,10,4.5,10,10s-4.5,10-10,10S1,16.5,1,11S5.5,1,11,1 M11,0C4.9,0,0,4.9,0,11s4.9,11,11,11
+		s11-4.9,11-11S17.1,0,11,0z"/>
+</g>
+<g>
+	<circle class="st3" cx="33" cy="11" r="10.5"/>
+	<path class="st1" d="M33,1c5.5,0,10,4.5,10,10s-4.5,10-10,10s-10-4.5-10-10S27.5,1,33,1 M33,0c-6.1,0-11,4.9-11,11s4.9,11,11,11
+		s11-4.9,11-11S39.1,0,33,0z"/>
+</g>
+<g>
+	<circle class="st4" cx="77" cy="11" r="10.5"/>
+	<path class="st2" d="M77,1c5.5,0,10,4.5,10,10s-4.5,10-10,10s-10-4.5-10-10S71.5,1,77,1 M77,0c-6.1,0-11,4.9-11,11s4.9,11,11,11
+		s11-4.9,11-11S83.1,0,77,0z"/>
+</g>
+<g>
+	<circle class="st1" cx="55" cy="11" r="8"/>
+</g>
+<g>
+	<path class="st2" d="M99,1c5.5,0,10,4.5,10,10s-4.5,10-10,10s-10-4.5-10-10S93.5,1,99,1 M99,0c-6.1,0-11,4.9-11,11s4.9,11,11,11
+		s11-4.9,11-11S105.1,0,99,0L99,0z"/>
+</g>
+<g>
+	<circle class="st2" cx="99" cy="11" r="8"/>
+</g>
+</svg>

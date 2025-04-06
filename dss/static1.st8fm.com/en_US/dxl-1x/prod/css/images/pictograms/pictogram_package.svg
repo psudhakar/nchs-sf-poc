@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .e6507f41-0f8f-4dc7-8dba-11f970bfede3 {
+        fill: none;
+      }
+
+      .f1689f8e-29d0-4b87-9488-023685ef729c {
+        fill: #ec0c21;
+      }
+
+      .ad1ecb29-52e3-4016-a885-a7bf52a8a5dd {
+        fill: #403c3c;
+      }
+    </style>
+  </defs>
+  <g data-name="white bg">
+    <rect class="e6507f41-0f8f-4dc7-8dba-11f970bfede3" x="-0.1" width="160" height="160"/>
+  </g>
+  <g data-name="Layer 1">
+    <rect class="f1689f8e-29d0-4b87-9488-023685ef729c" x="70" y="65" width="20" height="50.21"/>
+    <rect class="f1689f8e-29d0-4b87-9488-023685ef729c" x="25" y="120" width="30" height="9.83"/>
+    <g>
+      <polygon class="ad1ecb29-52e3-4016-a885-a7bf52a8a5dd" points="90 63.2 90 66.8 143.2 66.8 143.2 143.03 81.8 143.03 81.8 125 78.2 125 78.2 143.03 16.81 143.03 16.81 66.8 68.2 66.8 68.2 117.01 90 117.01 90 113.41 71.8 113.41 71.8 63.21 70 63.21 70 63.2 13.21 63.2 13.21 146.63 146.8 146.63 146.8 63.2 90 63.2"/>
+      <rect class="ad1ecb29-52e3-4016-a885-a7bf52a8a5dd" x="25" y="118.2" width="30" height="3.6"/>
+      <rect class="ad1ecb29-52e3-4016-a885-a7bf52a8a5dd" x="25" y="128.03" width="30" height="3.6"/>
+    </g>
+  </g>
+</svg>

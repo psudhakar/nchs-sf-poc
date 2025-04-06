@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 20 56" style="enable-background:new 0 0 20 56;" xml:space="preserve">
+    <style>.st0{fill:#767676;} .st1{fill:#403c3c;} .st2{fill:#212121;}</style>
+  <defs>
+    <view id="default" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 18" zoomAndPan="magnify"/>
+    <view id="hover" preserveAspectRatio="xMidYMid meet" viewBox="0 18 20 18" zoomAndPan="magnify"/>
+    <view id="selected" preserveAspectRatio="xMidYMid meet" viewBox="0 36 20 18" zoomAndPan="magnify"/>
+  </defs>
+  <g id="default"><path class="st0" d="M18,6H14l.81-4.84a1,1,0,0,0-1-1.16H11.61a3,3,0,0,0-2.5,1.34L6,6H0V18H17.28a1,1,0,0,0,.95-.68l1.67-5a2,2,0,0,0,.1-.63V8A2,2,0,0,0,18,6ZM6,16H2V8H6Zm12-4.32L16.56,16H8V6.61l2.77-4.16A1,1,0,0,1,11.61,2h1L12,5.67,11.64,8H18Z"/></g>
+  <g id="hover"><path class="st1" d="M18,24H14l.81-4.84a1,1,0,0,0-1-1.16H11.61a3,3,0,0,0-2.5,1.34L6,24H0V36H17.28a1,1,0,0,0,.95-.68l1.67-5a2,2,0,0,0,.1-.63V26A2,2,0,0,0,18,24ZM6,34H2V26H6Zm12-4.32L16.56,34H8V24.61l2.77-4.16a1,1,0,0,1,.84-.45h1L12,23.67,11.64,26H18Z"/></g>
+  <g id="selected"><path class="st2" d="M18,42H14l.81-4.84a1,1,0,0,0-1-1.16H11.61a3,3,0,0,0-2.5,1.34L6,42H0V54H17.28a1,1,0,0,0,.95-.68l1.67-5a2,2,0,0,0,.1-.63V44A2,2,0,0,0,18,42ZM6,52H2V44H6Zm12-4.32L16.56,52H8V42.61l2.77-4.16a1,1,0,0,1,.84-.45h1L12,41.67,11.64,44H18Z"/></g>
+</svg>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#403C3C;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#E4E3E3;}
+	.st3{fill:none;}
+</style>
+<defs>
+	<view  id="left_default" preserveAspectRatio="xMidYMid meet" viewBox="4  38 10 18" zoomAndPan="magnify"></view>
+	<view  id="left_disabled" preserveAspectRatio="xMidYMid meet" viewBox="22 38 10 18" zoomAndPan="magnify"></view>
+	<view  id="right_default" preserveAspectRatio="xMidYMid meet" viewBox="4  10 10 18" zoomAndPan="magnify"></view>
+	<view  id="right_disabled" preserveAspectRatio="xMidYMid meet" viewBox="22 10 10 18" zoomAndPan="magnify"></view>
+	<view  id="down_default" preserveAspectRatio="xMidYMid meet" viewBox="0   0 18 10" zoomAndPan="magnify"></view>
+	<view  id="down_disabled" preserveAspectRatio="xMidYMid meet" viewBox="18  0 18 10" zoomAndPan="magnify"></view>
+	<view  id="up_default" preserveAspectRatio="xMidYMid meet" viewBox="0  28 18 10" zoomAndPan="magnify"></view>
+	<view  id="up_disabled" preserveAspectRatio="xMidYMid meet" viewBox="18 28 18 10" zoomAndPan="magnify"></view>
+	<view  id="down_inverse" preserveAspectRatio="xMidYMid meet" viewBox="0 56 24 24" zoomAndPan="magnify"></view>
+	<view  id="right_inverse" preserveAspectRatio="xMidYMid meet" viewBox="0 80 24 24" zoomAndPan="magnify"></view>
+	<view  id="up_inverse" preserveAspectRatio="xMidYMid meet" viewBox="0 104 24 24" zoomAndPan="magnify"></view>
+	<view  id="left_inverse" preserveAspectRatio="xMidYMid meet" viewBox="0 128 24 24" zoomAndPan="magnify"></view>
+</defs>
+<path class="st0" d="M24,59.9v16c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4v-16c0-2.2,1.8-4,4-4h16C22.2,55.9,24,57.7,24,59.9z"/>
+<path class="st0" d="M4,79.9h16c2.2,0,4,1.8,4,4v16c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4v-16C0,81.7,1.8,79.9,4,79.9z"/>
+<path class="st0" d="M0,123.9v-16c0-2.2,1.8-4,4-4h16c2.2,0,4,1.8,4,4v16c0,2.2-1.8,4-4,4H4C1.8,127.9,0,126.1,0,123.9z"/>
+<path class="st0" d="M20,151.9H4c-2.2,0-4-1.8-4-4v-16c0-2.2,1.8-4,4-4h16c2.2,0,4,1.8,4,4v16C24,150.1,22.2,151.9,20,151.9z"/>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_1_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask">
+		<polygon id="path-1_1_" class="st0" points="9.3,-11 3,-4.7 3,-4.7 2,-3.7 1,-4.7 -5.3,-11 -6.7,-9.6 2,-0.9 10.7,-9.6 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_9_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_8_">
+		<polygon id="path-1_9_" class="st1" points="12.3,52.9 6,59.1 6,59.1 5,60.1 4,59.1 -2.3,52.9 -3.7,54.3 5,63 13.7,54.3 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_11_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_10_">
+		<polygon id="path-1_11_" class="st1" points="-2.3,108.9 4,102.6 4,102.6 5,101.6 6,102.6 12.3,108.9 13.7,107.5 5,98.8 
+			-3.7,107.5 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_12_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_11_">
+		<polygon id="path-1_12_" class="st1" points="9,136.2 2.8,129.9 2.8,129.9 1.8,128.9 2.8,127.9 9,121.6 7.6,120.2 -1.1,128.9 
+			7.6,137.6 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_10_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_9_">
+		<polygon id="path-1_10_" class="st1" points="0.9,73.6 7.2,79.9 7.2,79.9 8.2,80.9 7.2,81.9 0.9,88.2 2.3,89.6 11,80.9 2.3,72.2 
+					"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_2_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_1_">
+		<polygon id="path-1_2_" class="st2" points="27.3,-11 21,-4.7 21,-4.7 20,-3.7 19,-4.7 12.7,-11 11.3,-9.6 20,-0.9 28.7,-9.6 		
+			"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_4_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_3_">
+		<polygon id="path-1_4_" class="st0" points="-3,0.7 3.3,7 3.3,7 4.3,8 3.3,9 -3,15.3 -1.6,16.7 7.1,8 -1.6,-0.7 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_3_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_2_">
+		<polygon id="path-1_3_" class="st2" points="15,0.7 21.3,7 21.3,7 22.3,8 21.3,9 15,15.3 16.4,16.7 25.1,8 16.4,-0.7 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_6_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_5_">
+		<polygon id="path-1_6_" class="st0" points="-5.3,27.1 1,20.8 1,20.8 2,19.8 3,20.8 9.3,27.1 10.7,25.7 2,17 -6.7,25.7 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_5_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_4_">
+		<polygon id="path-1_5_" class="st2" points="12.7,27.1 19,20.8 19,20.8 20,19.8 21,20.8 27.3,27.1 28.7,25.7 20,17 11.3,25.7 		
+			"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_8_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_7_">
+		<polygon id="path-1_8_" class="st0" points="7.1,43.3 0.8,37 0.8,37 -0.2,36 0.8,35 7.1,28.7 5.7,27.3 -3,36 5.7,44.7 		"/>
+	</g>
+</g>
+<g id="parts_x2F_colors_x2F_icon_x5F_colors_x2F_charcoal-02_7_" transform="translate(7.000000, 11.000000)">
+	<g id="Mask_6_">
+		<polygon id="path-1_7_" class="st2" points="25.1,43.3 18.8,37 18.8,37 17.8,36 18.8,35 25.1,28.7 23.7,27.3 15,36 23.7,44.7 		
+			"/>
+	</g>
+</g>
+<rect y="0" class="st3" width="17.9" height="10.1"/>
+</svg>

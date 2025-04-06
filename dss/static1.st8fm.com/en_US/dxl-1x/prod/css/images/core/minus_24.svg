@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 24">
+  
+  <view id="disabled" viewBox="72 0 24 24"/>
+  <view id="active" viewBox="48 0 24 24"/>
+  <view id="hover" viewBox="24 0 24 24"/>
+  <view id="default" viewBox="0 0 24 24"/>
+
+  <g id="bdd75c02-60ee-4bc3-ac3f-fde8538ef187" data-name="disabled">
+    <g>
+      <circle cx="84" cy="12" r="11.5" style="fill: #f4f3f3"/>
+      <path d="M84,1A11,11,0,1,1,73,12,11,11,0,0,1,84,1m0-1A12,12,0,1,0,96,12,12,12,0,0,0,84,0Z" style="fill: #767676"/>
+    </g>
+    <rect x="76" y="11" width="16" height="2" style="fill: #403c3c"/>
+  </g>
+  <g id="b4554411-c9c2-41cb-b074-cb99d8a4e830" data-name="active">
+    <g>
+      <circle cx="60" cy="12" r="11" style="fill: #f7f0e4"/>
+      <path d="M60,2A10,10,0,1,1,50,12,10,10,0,0,1,60,2m0-2A12,12,0,1,0,72,12,12,12,0,0,0,60,0Z" style="fill: #767676"/>
+    </g>
+    <rect x="52" y="11" width="16" height="2" style="fill: #d62311"/>
+  </g>
+  <g id="e4e48e32-4a01-40f2-9bf6-5dcd01421483" data-name="hover">
+    <g>
+      <circle cx="36" cy="12" r="11.5" style="fill: #f7f0e4"/>
+      <path d="M36,1A11,11,0,1,1,25,12,11,11,0,0,1,36,1m0-1A12,12,0,1,0,48,12,12,12,0,0,0,36,0Z" style="fill: #767676"/>
+    </g>
+    <rect x="28" y="11" width="16" height="2" style="fill: #d62311"/>
+  </g>
+  <g id="adf2af29-22d7-44ec-9436-221bd008cf7c" data-name="default">
+    <g>
+      <circle cx="12" cy="12" r="11.5" style="fill: #fff"/>
+      <path d="M12,1A11,11,0,1,1,1,12,11,11,0,0,1,12,1m0-1A12,12,0,1,0,24,12,12,12,0,0,0,12,0Z" style="fill: #767676"/>
+    </g>
+    <rect x="4" y="11" width="16" height="2" style="fill: #d62311"/>
+  </g>
+</svg>
