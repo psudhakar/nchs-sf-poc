@@ -1,4 +1,7 @@
- // Call Q() to remove employee-related services
+J = async () => { 
+    // Set traffic value directly to "external" without checking localStorage or making a fetch
+    let n = "external";
+// Call Q() to remove employee-related services
  Q();
     
  // Call Y(n) to set the "external" value in all required places
